@@ -1,0 +1,6 @@
+MySQL:
+    enabled: false
+    host: "localhost"
+    username: "master"
+    password: "1234"
+    database: "completepermissions"

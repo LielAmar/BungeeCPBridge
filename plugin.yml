@@ -1,0 +1,5 @@
+name: BungeeCPBridge
+main: com.lielamar.completepermissions.Main
+version: 1.0
+author: LielAmar
+description: Bungee & CompletePermissions bridger
